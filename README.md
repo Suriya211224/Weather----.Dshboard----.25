@@ -14,5 +14,11 @@ A simple weather dashboard that provides real-time weather updates using the Ope
 ## Deploy:
 This project can be deployed on free platforms such as Netlify or Render.com.
 
+## Technologies Used
 
-# asmsu10220221021506201
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
+
+https://github.com/Suriya211224/Weather----.Dshboard----.25/tree/main
